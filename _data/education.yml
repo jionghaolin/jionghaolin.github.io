@@ -1,0 +1,19 @@
+# Education Template
+- layout: left
+  name: Monash University
+  dates: 2019 - 2022
+  qualification: PhD Student, Human Centered AI
+  # quote: >
+  #   Short institution or course description (optional)
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
+  
+- layout: left
+  name: Monash University
+  dates: 2017 - 2019
+  qualification: Master of Data Science
+
+- layout: left
+  name: UC Berkeley
+  dates: 2018 - 2018
+  qualification: Semester Exchange, Information Science
